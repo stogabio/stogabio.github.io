@@ -2070,7 +2070,7 @@
 
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
-				background: rgba(212, 212, 255, 0.035);
+				background: #ff3399;
 				content: '';
 				display: inline-block;
 				height: 1.65em;
