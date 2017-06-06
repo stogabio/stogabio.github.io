@@ -1,4 +1,3 @@
-Modified Expression of Forty by HTML5 Up
 Stoga Biology Club site
 
 NOTE** audio in image folder due to only one exclusive use (vp m4a)
